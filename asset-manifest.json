@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workanhnguyen/tiktok.git/static/css/main.3833b5c2.css",
+    "main.js": "/workanhnguyen/tiktok.git/static/js/main.2075f820.js",
+    "static/js/787.fe00223f.chunk.js": "/workanhnguyen/tiktok.git/static/js/787.fe00223f.chunk.js",
+    "static/media/logo.svg": "/workanhnguyen/tiktok.git/static/media/logo.b1e3eae0e4b24f343f129a431327be74.svg",
+    "index.html": "/workanhnguyen/tiktok.git/index.html",
+    "main.3833b5c2.css.map": "/workanhnguyen/tiktok.git/static/css/main.3833b5c2.css.map",
+    "main.2075f820.js.map": "/workanhnguyen/tiktok.git/static/js/main.2075f820.js.map",
+    "787.fe00223f.chunk.js.map": "/workanhnguyen/tiktok.git/static/js/787.fe00223f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3833b5c2.css",
+    "static/js/main.2075f820.js"
+  ]
+}
