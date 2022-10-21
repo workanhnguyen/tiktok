@@ -8,6 +8,7 @@
     //Default layout
     --default-layout-header-height: 60px;
     --default-layout-width: 1150px;
+    --default-layout-horizontal-spacer: 24px;
     --text-color: #333;
 }
 
@@ -37,4 +38,13 @@ button, input, [tabindex] {
 a[href] {
     text-decoration: none;
     color: var(--text-color);
+}
+
+//Custom tippy tooltip
+body .tippy-box {
+    font-weight: 500;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+    border-radius: 8px;
+    background-color: rgba(84, 84, 84, 0.92);
 }
